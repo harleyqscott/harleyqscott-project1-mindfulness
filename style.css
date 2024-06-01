@@ -1,1 +1,81 @@
+h1{
+  color: #2AD2FB;
+  text-align: center;
+  text-decoration: underline;
+  font-family: monospace;
+  font-size: 35px;
+  font-size: 40x;
+}
+
+h2{
+  color: #2AD2FB;
+  text-align: center;
+  font-size: 30px;
+}
+
+h3{
+  color: cyan;
+}
+
+h4{
+  text-align: center;
+  color: #2AD2FB;
+  font-size: 30px;
+}
+
+body{
+  background-color: white;
+ 
+}
+
+section{
+ padding: 20px;
+  
+}
+
+div{
+  padding: 20px;
+}
+
+nav{
+  text-align: center;
+}
+
+#exercises {
+  text-align: left;
+}
+
+#benefits{
+  text-align: left;
+}
+
+#subject{
+  padding: 10px;
+  border-color: cyan;
+  width: 110px;
+  height: 30px;
+}
+#table-comparison{
+  text-align: center;
+}
+
+th,
+td
+{
+  padding: 15px;
+  text-align: center;
+  border: 5px;
+  color: #00C1FF;
+  
+}
+
+tr:hover {
+  background-color: #F9D1F7;
+  }
+  
+  table tr,th {
+    border: 1px solid;
+    padding: 30px;
+  }
+  
 
