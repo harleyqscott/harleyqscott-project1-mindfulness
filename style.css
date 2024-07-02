@@ -1,9 +1,13 @@
+.navigation{
+  position:sticky;
+  word-spacing: 5px;
+}
+
 h1{
   color: #2AD2FB;
   text-align: center;
   text-decoration: underline;
   font-family: monospace;
-  font-size: 35px;
   font-size: 40x;
 }
 
