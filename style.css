@@ -51,6 +51,7 @@ nav{
   border-style: ridge;
   border-color: rgb(255, 214, 249);
   border-radius: round;
+  margin: 50px;
 }
 
 #benefits{
@@ -59,6 +60,8 @@ nav{
   border-style: ridge;
   border-color: rgb(255, 214, 249);
   border-radius: round;
+  margin: 50px;
+
 }
 
 #subject{
@@ -67,6 +70,7 @@ nav{
   border-style: ridge;
   border-color: rgb(255, 214, 249);
   border-radius: round;
+  margin: 50px;
 }
   
 
@@ -76,6 +80,7 @@ nav{
   border-style: ridge;
   border-color: rgb(255, 214, 249);
   border-radius: round;
+  margin: 50px;
 }
 
 th,
