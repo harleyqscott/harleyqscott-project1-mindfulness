@@ -133,6 +133,10 @@ nav{
   border-width: 5px;
 }
 
+.exercise-example li{
+  text-decoration: underline;
+}
+
 th,
 td
 {
