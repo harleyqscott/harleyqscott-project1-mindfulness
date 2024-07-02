@@ -110,6 +110,29 @@ nav{
   border-spacing: 100px;
   border-width: 5px;
 }
+
+#facts{
+  text-align: center;
+  border: 2px;
+  border-style: ridge;
+  border-color: rgb(255, 214, 249);
+  border-radius: round;
+  margin: 50px;
+  border-spacing: 100px;
+  border-width: 5px;
+}
+
+#yoga-exercises{
+  text-align: center;
+  border: 2px;
+  border-style: ridge;
+  border-color: rgb(255, 214, 249);
+  border-radius: round;
+  margin: 50px;
+  border-spacing: 100px;
+  border-width: 5px;
+}
+
 th,
 td
 {
