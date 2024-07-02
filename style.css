@@ -24,7 +24,7 @@ h4{
 }
 
 body{
-  background-color: rgb(255, 214, 249);
+  background-color: white;
  
 }
 
@@ -42,21 +42,32 @@ nav{
 }
 
 #exercises {
-  text-align: left;
+  text-align: center;
+  border: 2px;
+  border-style: ridge;
+  border-color: rgb(255, 214, 249);
 }
 
 #benefits{
-  text-align: left;
+  text-align: center;
+  border: 2px;
+  border-style: ridge;
+  border-color: rgb(255, 214, 249);
 }
 
 #subject{
-  padding: 10px;
-  border-color: cyan;
-  width: 110px;
-  height: 30px;
+  text-align: center;
+  border: 2px;
+  border-style: ridge;
+  border-color: rgb(255, 214, 249);
+}
+  
 }
 #table-comparison{
   text-align: center;
+  border: 2px;
+  border-style: ridge;
+  border-color: rgb(255, 214, 249);
 }
 
 th,
