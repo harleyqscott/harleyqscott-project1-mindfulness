@@ -5,10 +5,17 @@
   text-align: center;
   background-color: rgb(255, 214, 249);
   overflow:hidden;
-  display: block;
-  float:left;
   width: 200px;
   height:140px
+  padding: 0;
+  margin: 0;
+}
+.navigation a{
+  text-decoration: none;
+  display: block;
+}
+.navigation li{
+  float:left;
 }
 
 h1{
