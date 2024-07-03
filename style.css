@@ -4,17 +4,8 @@
   text-align: center;
   background-color: rgb(255, 214, 249);
   overflow:hidden;
-}
-
-.navigation a{
   display: block;
-  text-align:center;
-  word-spacing: 5px;
-}
-
-.navigation li{
-  float: left;
-  word-spacing: 5px;
+  float:right;
 }
 
 h1{
