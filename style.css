@@ -8,7 +8,7 @@
   display: block;
   float:left;
   width: 200px;
-  height:170px
+  height:140px
 }
 
 h1{
@@ -47,6 +47,7 @@ section{
 
 div{
   padding: 20px;
+  margin:auto;
 }
 
 #exercises {
