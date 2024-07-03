@@ -5,12 +5,12 @@
   background-color: rgb(255, 214, 249);
   overflow:hidden;
   display: block;
-  float:right;
+  float:left;
 }
 
 h1{
   color: #2AD2FB;
-  text-align: left;
+  text-align: right;
   text-decoration: underline;
   font-family: monospace;
   font-size: 40px;
