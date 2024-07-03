@@ -9,10 +9,12 @@
 .navigation a{
   display: block;
   text-align:center;
+  word-spacing: 5px;
 }
 
 .navigation li{
   float: left;
+  word-spacing: 5px;
 }
 
 h1{
