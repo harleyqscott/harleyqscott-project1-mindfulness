@@ -1,5 +1,5 @@
 .navigation ul{
-  position:sticky;
+  position:fixed;
   word-spacing: 5px;
   text-align: center;
   background-color: rgb(255, 214, 249);
