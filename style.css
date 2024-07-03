@@ -56,6 +56,8 @@ div{
   margin: 50px;
   border-spacing: 100px;
   border-width: 5px;
+  height: 100px;
+  width:150px;
 }
 
 #benefits{
@@ -67,7 +69,8 @@ div{
   margin: 50px;
   border-spacing: 100px;
   border-width: 5px;
-
+  height: 150px;
+  width:250px;
 }
 
 #subject{
@@ -79,6 +82,8 @@ div{
   margin: 50px;
   border-spacing: 100px;
   border-width: 5px;
+  height: 100px;
+  width:250px;
 }
   
 
@@ -91,6 +96,8 @@ div{
   margin: 50px;
   border-spacing: 100px;
   border-width: 5px;
+  height: 100px;
+  width:250px;
 }
 #reading{
   text-align: center;
@@ -101,6 +108,8 @@ div{
   margin: 50px;
   border-spacing: 100px;
   border-width: 5px;
+  height: 100px;
+  width:250px;
 }
 #frequency{
   text-align: center;
@@ -111,6 +120,8 @@ div{
   margin: 50px;
   border-spacing: 100px;
   border-width: 5px;
+  height: 100px;
+  width:250px;
 }
 
 #facts{
@@ -122,6 +133,8 @@ div{
   margin: 50px;
   border-spacing: 100px;
   border-width: 5px;
+  height: 100px;
+  width:250px;
 }
 
 #yoga-exercises{
@@ -133,6 +146,8 @@ div{
   margin: 50px;
   border-spacing: 100px;
   border-width: 5px;
+  height: 100px;
+  width:100px;
 }
 
 .exercise-example li{
@@ -159,6 +174,7 @@ tr:hover {
   table tr,th {
     border: 1px solid;
     padding: 30px;
+    margin: auto;
   }
   
 li{
