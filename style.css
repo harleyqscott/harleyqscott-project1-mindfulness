@@ -3,7 +3,11 @@
   word-spacing: 5px;
   text-align: center;
   background-color: rgb(255, 214, 249);
-  
+}
+
+.navigation a{
+  display: block;
+  text-align:center;
 }
 
 h1{
