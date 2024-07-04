@@ -1,12 +1,13 @@
 header{
   text-align: center;
+  align-items:center;
   padding: 25px;
 }
 
 .navigation{
 height:50px;
 width:100%;
-word-spacing: 15px;
+word-spacing: 5px;
 }
 
 .navigation ul{
