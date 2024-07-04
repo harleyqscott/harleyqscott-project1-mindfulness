@@ -18,6 +18,10 @@
   float:left;
 }
 
+#intro h3{
+text-align: right;
+}
+
 h1{
   color: #2AD2FB;
   text-align: right;
