@@ -1,3 +1,13 @@
+header{
+  text-align: center;
+  padding: 25px;
+}
+
+.nav{
+height:50px;
+
+}
+
 .navigation ul{
   position:fixed;
   top:0;
@@ -5,8 +15,6 @@
   text-align: center;
   background-color: rgb(255, 214, 249);
   overflow:hidden;
-  width: 200px;
-  height:140px
   padding: 0;
   margin: 0;
 }
