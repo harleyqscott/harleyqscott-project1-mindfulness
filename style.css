@@ -53,7 +53,13 @@ body{
 
 section{
  padding: 20px;
+ width:50%
   
+}
+
+aside{
+  width:20%;
+  float:left;
 }
 
 div{
