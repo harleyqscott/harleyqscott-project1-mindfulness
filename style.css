@@ -66,12 +66,11 @@ section{
   
 }
 
-/*aside{
-  width:20%;
-  float:left;
-  overflow:scroll;
+aside{
+  width:50%;
+  overflow:none;
 }
-*/
+
 div{
   padding: 20px;
   margin:auto;
