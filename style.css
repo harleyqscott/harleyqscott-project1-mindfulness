@@ -60,6 +60,7 @@ section{
 aside{
   width:20%;
   float:left;
+  overflow:scroll;
 }
 
 div{
