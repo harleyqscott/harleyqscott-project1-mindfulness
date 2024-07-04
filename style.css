@@ -20,7 +20,9 @@ word-spacing: 5px;
 }
 .navigation a{
   text-decoration: none;
-  display: block;
+  display:flex;
+  display: inline-block;
+  padding:0px 20px;
 }
 
 
