@@ -6,25 +6,22 @@ header{
 .navigation{
 height:50px;
 width:100%;
+word-spacing: 15px;
 }
 
 .navigation ul{
   position:fixed;
   top:0;
-  word-spacing: 5px;
   text-align: center;
   background-color: rgb(255, 214, 249);
   overflow:hidden;
-  padding: 0;
   margin: 0;
 }
 .navigation a{
   text-decoration: none;
   display: block;
 }
-.navigation li{
-  float:left;
-}
+
 
 #intro h3{
 text-align: left;
