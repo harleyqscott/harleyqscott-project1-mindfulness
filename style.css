@@ -9,7 +9,7 @@ header{
 }
 
 .navigation{
-height:50px;
+height:70px;
 width:100%;
 word-spacing: 5px;
 }
@@ -17,29 +17,50 @@ word-spacing: 5px;
 .navigation ul {
   position: fixed;
   top: 0px;
+  left: -200px;
   word-spacing: 5px;
-  text-align: center;
   background-color: rgb(255, 214, 249);
-  width: 200px;
+  width: 450px;
+  height: 30px;
   overflow: hidden;
   margin: auto;
+  left: 1400px;
+  text-align: center;
 }
 
-.navigation a{
-  text-decoration: none;
-  display:flex;
-  display: inline-block;
-  padding:0px 20px;
+.nav .navigation a{
+text-decoration: none;
+position: relative;
+right: 20px;
+padding:0px 20px;
 }
 
+#nav-div{
+display: flex;
+list-style: none;
+display: inline-block;
+text-align: center;
+align-items: center;
+justify-content: space-between;
+}
+
+li, a{
+  list-style: none;
+  display: inline;
+  align-items: center;
+  margin-top: 10px;
+}
 
 #intro h3{
 text-align: left;
+position: relative;
+left: -550px;
+margin-top: 30px;
 }
 
 h1{
   color: #2AD2FB;
-  text-align: right;
+  text-align: left;
   text-decoration: underline;
   font-family: monospace;
   font-size: 40px;
@@ -99,6 +120,10 @@ div{
   border-width: 5px;
   height: 520px;
   width: 800px;
+  position: relative;
+  right: -870px;
+  top: -330px;
+  font-size: larger;
 }
 
 #benefits{
@@ -112,7 +137,11 @@ div{
   border-width: 5px;
   height: 210px;
   width:800px;
+  position: relative;
+  top: -300px;
+  font-size: larger;
 }
+
 
 #subject{
   text-align: center;
@@ -125,8 +154,9 @@ div{
   border-width: 5px;
   height: 100px;
   width:250px;
+  font-size: larger;
 }
-  
+
 
 #table-comparison{
   text-align: center;
@@ -137,8 +167,12 @@ div{
   margin:50px;
   border-spacing: 70px;
   border-width: 5px;
-  height: 410px;
+  height: 420px;
   width:800px;
+  position: relative;
+  top: -400px;
+  left: -10px;
+  font-size: larger;
 }
 #reading{
   text-align: center;
@@ -151,6 +185,10 @@ div{
   border-width: 5px;
   height: 210px;
   width:800px;
+  position: relative;
+  top: -360px;
+  left: -5px;
+  font-size: larger;
 }
 #frequency{
   text-align: center;
@@ -163,6 +201,10 @@ div{
   border-width: 5px;
   height: 200px;
   width:800px;
+  position: relative;
+  left: 860px;
+  top: -380px;
+  font-size: larger;
 }
 
 #facts{
@@ -174,8 +216,11 @@ div{
   margin:50px;
   border-spacing: 70px;
   border-width: 5px;
-  height: 150px;
-  width:500px;
+  height: 170px;
+  width:530px;
+  font-size: larger;
+  position: relative;
+  left: 865px;
 }
 
 #yoga-exercises{
@@ -185,11 +230,12 @@ div{
   border-color: rgb(255, 214, 249);
   border-radius: round;
   margin:50px;
- border-spacing: 70px;
+  border-spacing: 70px;
   border-width: 5px;
-  height: 210px;
+  height: 200px;
   width:800px;
   padding: 20px;
+  font-size: larger;
  
 }
 
@@ -205,6 +251,8 @@ td
   text-align: center;
   border: 5px;
   color: #00C1FF;
+  position: relative;
+  left: -60px;
   /*margin-left&right 0*/
 }
 
@@ -221,3 +269,85 @@ tr:hover {
 li{
   list-style: none;
 }
+ img{
+  position: relative;
+  top: 520px;
+  left: 135px;
+ }
+
+ #frequency-h{
+  margin-bottom: 40px;
+ }
+
+ #book{
+  margin-bottom: 15px;
+ }
+
+ #btn{
+  background-color: #F9D1F7;
+  color:#2AD2FB;
+  position: relative;
+  left: 900px;
+  top: -700px;
+  border-style: none;
+  width: 150px;
+  height: 70px;
+  font-size:x-large;
+ }
+
+ #yoga-heading{
+  margin-bottom: 25px;
+ }
+
+ #yoga-title{
+  position: relative;
+  left: -150px;
+ }
+
+ #yoga-facts{
+  position: relative;
+  bottom: 60px;
+  left: -15px;
+ }
+
+ #ask-questions{
+  margin-bottom: 50px;
+ }
+
+ #questions{
+  font-size: larger;
+  position: relative;
+  left: 380px;
+  margin-bottom: 50px;;
+ }
+
+ #subject{
+  margin-top: 50px;
+ }
+
+ #questions-btn{
+  background-color: #F9D1F7;
+  color: #29c1e7;
+  border-style: none;
+  width: 70px;
+  height: 20px;
+  position: relative;
+  top: -55px;
+  left: -15px;
+ }
+
+ #image2{
+  height: 450px;
+  width:500px;
+  position: relative;
+  left: 1100px;
+  top: -900px;
+ }
+
+ #image3{
+  height: 350px;
+  width: 500px;
+  position: relative;
+  top: -50px;
+  left: 440px;
+ }
