@@ -1,5 +1,5 @@
 # project1-mindfulness
-![2024-10-01 (1)](https://github.com/user-attachments/assets/659074fc-887f-45cb-abeb-237eb03d38ff)
+
 
 ### Purpose
 website on mindfulness techniques and information on mindfulness and yoga<br>
@@ -31,4 +31,4 @@ To create this website, I created four different files...<br>
 
 ### Navigation links
 The navigation links i included are ass followed Home, Benefits, Exercise, Mindfulness frequency, Questions and Yoga. The home link is there so that if you press another link you can press home and return to the main page. The links Benefits, Exercise and Mindfulness frequncy all link to the main page so you can find a specific section. The questions link takes you to a different page where you have the section about asking questions. The final think is a link to the section on yoga which has information on yoga and fun facts about it. This link takes you to a seperate page. There is also a link at the bottom of the page called "back to the top", this is quite self explanitory and once clicked takes you back to the top of the page once you scrolled down.
-![navigation links](2024-10-01 (1).png)
+![2024-10-01 (1)](https://github.com/user-attachments/assets/659074fc-887f-45cb-abeb-237eb03d38ff)
