@@ -5,7 +5,7 @@ This website is useful for if you want to find out more about yoga and mindfulne
 I created this website for educational pruposes so anyone can have a read and see if they want to implement any of the techniques into their life.
 
 ### How it was built
-This project was created using HTML and CSS. I used HTML for all the information, images, id and class attribues (linking to CSS), tables, forms and buttons. I then used CSS to style and position all the elements. I coloured the website with pink and blue against a white background so it could be clearly read and pleasing to the eye.
+This project was created using HTML and CSS. I used HTML for all the information, images, id and class attribues (linking to CSS), tables, forms and buttons. I then used CSS to style and position all the elements. I coloured the website with pink and blue against a white background so it could be clearly read and pleasing to the eye. To target specific elements from the html i used their id or class attribute (e.g. .nav-bar) this is an effective way of targeting specific elements.
 
 ### Contents:
 -Whys in which mindfulness is beneficial.<br>
@@ -24,7 +24,8 @@ To create this website, I created four different files...<br>
 <br>
 2-The second file questions.html is a page which was created so that the users could provide their name and email so that they can ask any further questions if they wanted to (so that the users feel supported).
 <br>
-3-The third file yoga.html is a page which contains information and fun facts about yoga.
+3-The third file yoga.html is a page which contains information and fun facts about yoga.<br>
+4- The fourth file was the style.css file which contains all the styling and positioning for each element. 
 
 ### Navigation links
 The navigation links i included are ass followed Home, Benefits, Exercise, Mindfulness frequency, Questions and Yoga. The home link is there so that if you press another link you can press home and return to the main page. The links Benefits, Exercise and Mindfulness frequncy all link to the main page so you can find a specific section. The questions link takes you to a different page where you have the section about asking questions. The final think is a link to the section on yoga which has information on yoga and fun facts about it. This link takes you to a seperate page. There is also a link at the bottom of the page called "back to the top", this is quite self explanitory and once clicked takes you back to the top of the page once you scrolled down.
