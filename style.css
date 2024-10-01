@@ -7,7 +7,7 @@ header{
   align-items:center;
   padding: 25px;
 }
-
+/*styling of each naviagtiob element*/
 .navigation{
 height:70px;
 width:100%;
@@ -57,7 +57,7 @@ position: relative;
 left: -550px;
 margin-top: 30px;
 }
-
+/*mindfulness and yoga exercises main heading styling*/
 h1{
   color: #2AD2FB;
   text-align: left;
@@ -88,13 +88,11 @@ h4{
 
 body{
   background-color: white;
- 
 }
 
 section{
  padding: 20px;
  width:50%
-  
 }
 
 aside{
@@ -106,9 +104,8 @@ div{
   padding: 20px;
   margin:auto;
   width:50%;
-
 }
-
+/*these sections have similar styling apart from position so the look is consistent*/
 #exercises {
   text-align: center;
   border: 2px;
@@ -174,6 +171,7 @@ div{
   left: -10px;
   font-size: larger;
 }
+
 #reading{
   text-align: center;
   border: 2px;
@@ -190,6 +188,7 @@ div{
   left: -5px;
   font-size: larger;
 }
+
 #frequency{
   text-align: center;
   border: 2px;
@@ -236,14 +235,13 @@ div{
   width:800px;
   padding: 20px;
   font-size: larger;
- 
 }
 
 .exercise-example li{
   text-decoration:underline;
   color: #00C1FF;
 }
-
+/*position, color styling for table of comparisons*/
 th,
 td
 {
@@ -269,6 +267,7 @@ tr:hover {
 li{
   list-style: none;
 }
+
  img{
   position: relative;
   top: 520px;
@@ -278,7 +277,7 @@ li{
  #frequency-h{
   margin-bottom: 40px;
  }
-
+/*styling for book url*/
  #book{
   margin-bottom: 15px;
  }
@@ -335,7 +334,7 @@ li{
   top: -55px;
   left: -15px;
  }
-
+/*adding styling to images (positioning)*/
  #image2{
   height: 450px;
   width:500px;
