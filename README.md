@@ -19,7 +19,7 @@ This project was created using HTML and CSS. I used HTML for all the information
 -Section where users cam ask any questions.<br>
 
 ### Files
--To create this website, I created four different files...<br>
+To create this website, I created four different files...<br>
 1-The first file was the index.html file which is the first page a user will come across when entering the website. This page contains the main information and benefits  about mindfulness and the different techniques you can do. Contained is a table of compariosns between differnt website and apps a user could use for more information (the table compairs pricing and rating).
 <br>
 2-The second file questions.html is a page which was created so that the users could provide their name and email so that they can ask any further questions if they wanted to (so that the users feel supported).
