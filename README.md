@@ -1,6 +1,7 @@
 # project1-mindfulness
 
 ![2024-10-01](https://github.com/user-attachments/assets/1e7dee02-8575-432c-8733-6cfcde4bcab0)
+<br> Main page image <br>
 ### Purpose
 website on mindfulness techniques and information on mindfulness and yoga<br>
 This website is useful for if you want to find out more about yoga and mindfulness plus positions and techniques that you can practise.
