@@ -19,7 +19,7 @@ This project was created using HTML and CSS. I used HTML for all the information
 -Facts about yoga.<br>
 -Video on yoga.<br>
 -Section where users cam ask any questions.<br>
-
+![2024-10-01 (3)](https://github.com/user-attachments/assets/7c979939-a972-4fa6-a8fd-07a5dddbc9d2)
 ### Files
 To create this website, I created four different files...<br>
 1-The first file was the index.html file which is the first page a user will come across when entering the website. This page contains the main information and benefits  about mindfulness and the different techniques you can do. Contained is a table of compariosns between differnt website and apps a user could use for more information (the table compairs pricing and rating).
@@ -31,6 +31,7 @@ To create this website, I created four different files...<br>
 ![2024-10-01 (4)](https://github.com/user-attachments/assets/2a118d36-821a-4f21-a133-6af1b2164ed1)
 ### Navigation links
 The navigation links i included are ass followed Home, Benefits, Exercise, Mindfulness frequency, Questions and Yoga. The home link is there so that if you press another link you can press home and return to the main page. The links Benefits, Exercise and Mindfulness frequncy all link to the main page so you can find a specific section. The questions link takes you to a different page where you have the section about asking questions. The final think is a link to the section on yoga which has information on yoga and fun facts about it. This link takes you to a seperate page. There is also a link at the bottom of the page called "back to the top", this is quite self explanitory and once clicked takes you back to the top of the page once you scrolled down.
+<br>
 ![2024-10-01 (1)](https://github.com/user-attachments/assets/659074fc-887f-45cb-abeb-237eb03d38ff)
 <br>
 ![2024-10-01 (2)](https://github.com/user-attachments/assets/4b55879d-9d31-4b36-b9c6-d7178815e75c)
