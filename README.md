@@ -1,4 +1,5 @@
 # project1-mindfulness
+![main page image](https://github.com/harleyqscott/harleyqscott-project1-mindfulness/issues/5#issue-2559557150)
 ### Purpose
 website on mindfulness techniques and information on mindfulness and yoga<br>
 This website is useful for if you want to find out more about yoga and mindfulness plus positions and techniques that you can practise.
