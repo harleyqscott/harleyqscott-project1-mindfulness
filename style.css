@@ -351,3 +351,11 @@ li{
   top: -50px;
   left: 440px;
  }
+
+
+
+ @media screen (max-width: 390px){
+  *{
+    margin: 100px;
+  }
+ }
