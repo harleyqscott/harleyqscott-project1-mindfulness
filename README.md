@@ -3,9 +3,9 @@
 ![2024-10-01](https://github.com/user-attachments/assets/1e7dee02-8575-432c-8733-6cfcde4bcab0)
 <br> Main page image <br>
 ### Purpose
-website on mindfulness techniques and information on mindfulness and yoga<br>
-This website is useful for if you want to find out more about yoga and mindfulness plus positions and techniques that you can practise.
-I created this website for educational pruposes so anyone can have a read and see if they want to implement any of the techniques into their life.
+-website on mindfulness techniques and information on mindfulness and yoga.<br>
+-This website is useful for if you want to find out more about yoga and mindfulness plus positions and techniques that you can practise.
+-I created this website for educational pruposes so anyone can have a read and see if they want to implement any of the techniques into their life.
 
 ### How it was built
 This project was created using HTML and CSS. I used HTML for all the information, images, id and class attribues (linking to CSS), tables, forms and buttons. I then used CSS to style and position all the elements. I coloured the website with pink and blue against a white background so it could be clearly read and pleasing to the eye. To target specific elements from the html i used their id or class attribute (e.g. .nav-bar) this is an effective way of targeting specific elements.
