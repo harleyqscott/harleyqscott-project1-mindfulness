@@ -4,7 +4,7 @@
 <br> Main page image <br>
 ### Purpose
 -website on mindfulness techniques and information on mindfulness and yoga.<br>
--This website is useful for if you want to find out more about yoga and mindfulness plus positions and techniques that you can practise.
+-This website is useful for if you want to find out more about yoga and mindfulness plus positions and techniques that you can practise.<br>
 -I created this website for educational pruposes so anyone can have a read and see if they want to implement any of the techniques into their life.
 
 ### How it was built
