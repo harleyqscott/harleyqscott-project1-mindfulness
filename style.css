@@ -351,7 +351,7 @@ li{
   left: 440px;
  }
 
-@media screen (max-width: 600px){
+@media screen (max-width: 450px){
   #exercises, #benefits, #subject, #reading, table-comparison, #frequency, #facts, #yoga-exercises{
     margin: auto;
     width: 50%;
