@@ -350,3 +350,10 @@ li{
   top: -50px;
   left: 440px;
  }
+
+@media screen (max-width: 600px){
+  #exercises{
+    margin: auto;
+    width: 50%;
+  }
+ }
