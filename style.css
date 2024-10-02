@@ -351,11 +351,6 @@ li{
   left: 440px;
  }
 
-@media screen (max-width: 450px){
-  h1{
-    margin: auto;
-    width: 50%;
-  }
- }
+
 
   
